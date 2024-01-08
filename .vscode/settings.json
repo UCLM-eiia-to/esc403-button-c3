@@ -1,0 +1,14 @@
+{
+    "idf.espIdfPathWin": "${env:USERPROFILE}\\esp\\esp-idf",
+    "idf.toolsPath": "${env:USERPROFILE}\\.espressif",
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32c3",
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-ftdi.cfg"
+    ],
+    "files.associations": {
+        "sdkconfig.h": "c"
+    },
+}

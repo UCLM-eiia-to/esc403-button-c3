@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/button.bin'
+elf = 'build/button.elf'
